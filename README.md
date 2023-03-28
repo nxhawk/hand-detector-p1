@@ -31,6 +31,7 @@
 - [Opencv và xử lý ảnh](https://minhng.info/tutorials/opencv-cau-truc-du-lieu-anh.html)
 - [Use mediapipe](https://google.github.io/mediapipe/solutions/hands.html) 
 
+![image](https://user-images.githubusercontent.com/92797788/228291682-d683aff0-404f-46b6-a6b9-66e16c197df5.png)
 
 
 
