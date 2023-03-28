@@ -1,5 +1,7 @@
 # Cơ bản về opencv và mediapipe
 
+![image](https://user-images.githubusercontent.com/92797788/228290847-c9aeda86-ff51-475a-a13b-eb37b51f8846.png)
+
 ## I. Trục tọa độ trong opencv
 - Gốc tọa độ ảnh đặt ở góc phía trên bên trái.
 - Trục nằm dọc là trục y - tương ứng với chiều cao ảnh.
